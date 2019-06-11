@@ -1,0 +1,48 @@
+Jacob Lepler
+
+
+#Find the average score
+Ask user for 10 exam scores
+User inputs 10 exam scores
+Program calculates average of given exam scores
+Program displays the average of the 10 scores given calculated by the program
+End program
+
+Repetition is used with a while loop until 10 scores are given.
+Selection is used as an if statement within the loop to check that the scores given fall within appropriate parameters (0-100)
+Sequence is used by the program to calculate and display exam scores
+
+Variables:
+Sum = 0 (sum increases with each user input)
+Average is the calculated average of the sum and displayed at the end of program
+
+Check:
+User inputs a total sum of 1000
+Program calculates the average as 100
+
+
+#How much water runs off the rooftop
+Ask user for the dimensions in number of feet of the rooftop
+User inputs footprints of rooftop
+Ask user for number in inches of rainfall
+User inputs number in inches of rainfall
+Program converts numbers of feet to inches of the rooftop
+Program multiplies rooftop dimensions by inches of rainfall
+Program divides previous result by 231 to get number of gallons of rainfall
+Program displays number of gallons of rainfall that runs off the rooftop
+end program
+
+Sequence is used to accept input from user for dimensions of rooftop and inches of rainfall
+Sequence is used again to calculate and display user input
+
+Variables:
+RoofInFeetLength
+RoofInFeetWidth
+RoofInInches
+CubicInchRainfall
+RainfallInGallons
+
+
+
+
+
